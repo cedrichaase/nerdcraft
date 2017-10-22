@@ -67,3 +67,6 @@
 [submodule "mods/mobs_sky"]
 	path = mods/mobs_sky
 	url = https://github.com/blert2112/mobs_sky.git
+[submodule "mods/ambience"]
+	path = mods/ambience
+	url = https://github.com/tenplus1/ambience.git
