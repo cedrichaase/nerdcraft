@@ -34,3 +34,36 @@
 [submodule "mods/xdecor"]
 	path = mods/xdecor
 	url = https://github.com/minetest-mods/xdecor.git
+[submodule "mods/biome_lib"]
+	path = mods/biome_lib
+	url = https://github.com/minetest-mods/biome_lib.git
+[submodule "mods/plantlife_modpack"]
+	path = mods/plantlife_modpack
+	url = https://github.com/minetest-mods/plantlife_modpack.git
+[submodule "mods/moretrees"]
+	path = mods/moretrees
+	url = https://github.com/minetest-mods/moretrees.git
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://github.com/tenplus1/mobs_redo.git
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://github.com/tenplus1/mobs_animal.git
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = https://github.com/tenplus1/mobs_monster.git
+[submodule "mods/mobs_npc"]
+	path = mods/mobs_npc
+	url = https://github.com/tenplus1/mobs_npc.git
+[submodule "mods/mob_horse"]
+	path = mods/mob_horse
+	url = https://github.com/tenplus1/mob_horse.git
+[submodule "mods/mobs_water"]
+	path = mods/mobs_water
+	url = https://github.com/blert2112/mobs_water.git
+[submodule "mods/dmobs"]
+	path = mods/dmobs
+	url = https://github.com/D00Med/dmobs.git
+[submodule "mods/mobs_sky"]
+	path = mods/mobs_sky
+	url = https://github.com/blert2112/mobs_sky.git
