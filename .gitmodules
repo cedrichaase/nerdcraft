@@ -19,3 +19,6 @@
 [submodule "mods/digilines"]
 	path = mods/digilines
 	url = https://github.com/minetest-mods/digilines.git
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://github.com/minetest-mods/pipeworks.git
