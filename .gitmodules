@@ -10,3 +10,6 @@
 [submodule "mods/hud_hunger"]
 	path = mods/hud_hunger
 	url = https://github.com/BlockMen/hud_hunger.git
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://github.com/tenplus1/farming.git
