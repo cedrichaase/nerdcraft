@@ -4,3 +4,6 @@
 [submodule "signs_lib"]
 	path = mods/signs_lib
 	url = https://github.com/minetest-mods/signs_lib.git
+[submodule "mods/drops"]
+	path = mods/drops
+	url = https://github.com/jordan4ibanez/drops.git
