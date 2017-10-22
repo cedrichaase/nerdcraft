@@ -25,3 +25,9 @@
 [submodule "mods/technic"]
 	path = mods/technic
 	url = https://github.com/minetest-mods/technic.git
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
