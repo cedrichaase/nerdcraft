@@ -22,3 +22,6 @@
 [submodule "mods/pipeworks"]
 	path = mods/pipeworks
 	url = https://github.com/minetest-mods/pipeworks.git
+[submodule "mods/technic"]
+	path = mods/technic
+	url = https://github.com/minetest-mods/technic.git
