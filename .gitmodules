@@ -31,3 +31,6 @@
 [submodule "mods/moreblocks"]
 	path = mods/moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "mods/xdecor"]
+	path = mods/xdecor
+	url = https://github.com/minetest-mods/xdecor.git
