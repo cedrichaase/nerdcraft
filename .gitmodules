@@ -7,3 +7,6 @@
 [submodule "mods/drops"]
 	path = mods/drops
 	url = https://github.com/jordan4ibanez/drops.git
+[submodule "mods/hud_hunger"]
+	path = mods/hud_hunger
+	url = https://github.com/BlockMen/hud_hunger.git
