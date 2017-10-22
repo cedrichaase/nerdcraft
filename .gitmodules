@@ -1,0 +1,3 @@
+[submodule "mods/craftguide"]
+	path = mods/craftguide
+	url = https://github.com/minetest-mods/craftguide.git
