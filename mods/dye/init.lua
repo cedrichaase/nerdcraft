@@ -65,14 +65,6 @@ for _, row in ipairs(dyes) do
 	})
 end
 
--- Manually add coal->black dye
-
-minetest.register_craft({
-	type = "shapeless",
-	output = "dye:black 4",
-	recipe = {"group:coal"},
-})
-
 -- Mix recipes
 local dye_recipes = {
 	-- src1, src2, dst
