@@ -76,3 +76,6 @@
 [submodule "mods/awards"]
 	path = mods/awards
 	url = https://github.com/minetest-mods/awards.git
+[submodule "mods/warps"]
+	path = mods/warps
+	url = https://github.com/minetest-mods/warps.git
