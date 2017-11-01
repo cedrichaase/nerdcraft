@@ -82,3 +82,9 @@
 [submodule "mods/torches"]
 	path = mods/torches
 	url = https://github.com/minetest-mods/torches.git
+[submodule "mods/lightning"]
+	path = mods/lightning
+	url = https://github.com/minetest-mods/lightning.git
+[submodule "mods/mymonths"]
+	path = mods/mymonths
+	url = https://github.com/minetest-mods/mymonths.git
