@@ -73,3 +73,6 @@
 [submodule "mods/minetest-3d_armor"]
 	path = mods/minetest-3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
+[submodule "mods/awards"]
+	path = mods/awards
+	url = https://github.com/minetest-mods/awards.git
