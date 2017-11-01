@@ -79,3 +79,6 @@
 [submodule "mods/warps"]
 	path = mods/warps
 	url = https://github.com/minetest-mods/warps.git
+[submodule "mods/torches"]
+	path = mods/torches
+	url = https://github.com/minetest-mods/torches.git
