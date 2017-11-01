@@ -60,7 +60,7 @@
 	url = https://github.com/tenplus1/mob_horse.git
 [submodule "mods/mobs_water"]
 	path = mods/mobs_water
-	url = https://github.com/blert2112/mobs_water.git
+	url = https://github.com/haggl/mobs_water.git
 [submodule "mods/dmobs"]
 	path = mods/dmobs
 	url = https://github.com/haggl/dmobs.git
