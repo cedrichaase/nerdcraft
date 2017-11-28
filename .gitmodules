@@ -88,3 +88,9 @@
 [submodule "mods/mymonths"]
 	path = mods/mymonths
 	url = https://github.com/minetest-mods/mymonths.git
+[submodule "mods/MoreMesecons"]
+	path = mods/MoreMesecons
+	url = https://github.com/minetest-mods/MoreMesecons
+[submodule "mods/vector_extras"]
+	path = mods/vector_extras
+	url = https://github.com/HybridDog/vector_extras/
