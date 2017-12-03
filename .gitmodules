@@ -87,7 +87,7 @@
 	url = https://github.com/minetest-mods/lightning.git
 [submodule "mods/mymonths"]
 	path = mods/mymonths
-	url = https://github.com/minetest-mods/mymonths.git
+	url = https://github.com/cedrichaase/mymonths.git
 [submodule "mods/MoreMesecons"]
 	path = mods/MoreMesecons
 	url = https://github.com/minetest-mods/MoreMesecons
