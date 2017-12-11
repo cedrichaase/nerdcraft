@@ -97,3 +97,6 @@
 [submodule "mods/bonemeal"]
 	path = mods/bonemeal
 	url = https://github.com/tenplus1/bonemeal.git
+[submodule "mods/sprint"]
+	path = mods/sprint
+	url = https://github.com/octacian/sprint
